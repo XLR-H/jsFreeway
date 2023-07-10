@@ -68,7 +68,7 @@ function showScore(){
   text('PONTOS:', 250,25);
   fill(255,0,0);
   text(playerHits, 450,25);
-  text('MORREU:', 360,25);
+  text('MORTES:', 360,25);
 }
 
 //****** SCORE POINTS  ******
